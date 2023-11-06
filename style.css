@@ -1974,8 +1974,9 @@ body {
     content: "03.";
 }
 
-
-
+background-pic{
+    background: url("images/Cover.jpg") no-repeat;
+}
 
 
 
